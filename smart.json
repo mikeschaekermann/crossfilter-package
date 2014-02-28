@@ -4,5 +4,5 @@
   "homepage": "http://square.github.com/crossfilter/",
   "author": "Mike Bostock <http://bost.ocks.org/mike?",
   "version": "0.0.2",
-  "git": "https://github.com/Ore4444/crossfilter-package.git"
+  "git": "https://github.com/mikeschaekermann/meteor-crossfilter.git"
 }
